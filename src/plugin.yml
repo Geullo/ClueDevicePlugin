@@ -1,0 +1,17 @@
+name: ClueSharingDevicePlugin
+main: com.geullo.cluesharingdevice.main
+version: 0.1
+description: ClueSharingDevice
+author: Geullo
+depend: []
+commands:
+  csd:
+    description: Clue Sharing Device command
+    usage: /<command>
+    permission:
+    permission-message: You do not have permission
+  quiz:
+    description: Clue Sharing Device command
+    usage: /<command>
+    permission:
+    permission-message: You do not have permission
